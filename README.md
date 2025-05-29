@@ -34,6 +34,7 @@ Task:
 Perform card sorting (open or closed).
 Create a site map showing categorized structure.
 ## OUTPUT:
+
 [Lab Task 6 ui and ux (1).pdf](https://github.com/user-attachments/files/20507056/Lab.Task.6.ui.and.ux.1.pdf)
 
 ## Result:
